@@ -1,17 +1,19 @@
 # JobPortalWebApplicationJava
- HOME PAGE
-![Screenshot (45)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/27849b26-1504-4e31-83c8-5f7b5577cc2a)
-
-BLOG CATEGORY OPTION
-
-![Screenshot (46)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/117a5ec7-79bb-4374-8f4e-a9deaa656b21)
-SPONSORE PAGE 
-![Screenshot (47)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/afc531b9-7f9f-4dbe-8619-33dd5a5326dd)
-User Can Submit Blog In Write Blog Section
-![Screenshot (48)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/41958d42-4cbd-441d-9582-21446681308e)
-TECH BLOGS SECTION
-![Screenshot (49)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/c6ebb058-c82f-47af-a627-74fcb60da56e)
-Tourism Blog Section
-![Screenshot (50)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/f6c088c5-d3a9-4f0b-924d-ac5400e4d262)
-DataBase
-![Screenshot (51)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/366b64eb-e4e7-4c04-a773-c6059748fd8b)
+First Look Of Job Portal WebApp
+ ![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/b5a37a2a-e708-4876-a16d-8bc4a5a3d74d)
+Register Page
+![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/41e05741-1088-413b-bedb-9ca79938ec6e)
+Login Page
+![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/ae39eb78-d377-4a47-8964-53d5eed8c135)
+After Successfully Login User Can View Jobs and choose Job by Location And Category
+![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/e3896eed-5b32-44a5-a5c7-cedecabf593d)
+Welcome To Admin Section ,where Admin Can Post jobs ,  View Previous Uploaded Jobs , and Can Delete OR Edit Jobs.
+![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/d9800e88-051d-40a6-8703-c4101a4afca5)
+Post Jobs Section 
+![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/ddfe7a56-f463-4d36-b927-7dbc583e595c)
+View Job Section
+![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/2ca43800-c1f3-4b02-9b62-ba1e385ebf13)
+Edit Previous Posted Jobs
+![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/4106f602-4eb3-43e5-8f5b-4d9457cc680b)
+Database
+![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/3d71e821-5f48-4460-941f-e523a263e43b)
