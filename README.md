@@ -13,3 +13,5 @@ TECH BLOGS SECTION
 ![Screenshot (49)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/c6ebb058-c82f-47af-a627-74fcb60da56e)
 Tourism Blog Section
 ![Screenshot (50)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/f6c088c5-d3a9-4f0b-924d-ac5400e4d262)
+DataBase
+![Screenshot (51)](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/366b64eb-e4e7-4c04-a773-c6059748fd8b)
