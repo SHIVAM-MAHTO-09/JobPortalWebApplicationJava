@@ -38,6 +38,5 @@ Database
 ![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/3d71e821-5f48-4460-941f-e523a263e43b)
 
 ![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/1c840cb5-beeb-4e6b-87fc-784a96a024a0)
-![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/021980ed-f681-4c12-889b-8174c116ec22)
-![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/b7f910bf-a504-4318-ac3e-86dc2e535260)
+![image](https://github.com/SHIVAM-MAHTO-09/JobPortalWebApplicationJava/assets/123778173/021980ed-f681-4c12-889b-8174c116ec22) 
 
